@@ -2,6 +2,12 @@
 
 A repository of useful code created by ITP Resident Researchers.
 
+=== Processing PGraphics Examples
+
 ==== Example of a function for creating PGraphics from text so you can manipulate its pixels
 
 https://gist.github.com/1323716[string_into_pgraphics.pde]
+
+==== Converting a string into a PGraphics so you can manipulate it as an image.
+
+https://gist.github.com/1323714[pgraphics_from_text.pde]
