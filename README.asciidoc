@@ -1,0 +1,7 @@
+== ITP Resident Examples
+
+A repository of useful code created by ITP Resident Researchers.
+
+==== Example of a function for creating PGraphics from text so you can manipulate its pixels
+
+https://gist.github.com/1323716[string_into_pgraphics.pde]
