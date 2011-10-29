@@ -2,6 +2,12 @@
 
 A repository of useful code created by ITP Resident Researchers.
 
+=== Ruby String Tricks
+
+==== Loop over the characters of a string with a for-in style loop.
+
+https://gist.github.com/1324549
+
 === Processing PGraphics Examples
 
 ==== Example of a function for creating PGraphics from text so you can manipulate its pixels
