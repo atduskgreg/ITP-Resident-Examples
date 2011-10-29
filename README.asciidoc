@@ -17,3 +17,9 @@ https://gist.github.com/1323716[string_into_pgraphics.pde]
 ==== Converting a string into a PGraphics so you can manipulate it as an image.
 
 https://gist.github.com/1323714[pgraphics_from_text.pde]
+
+=== OpenFrameworks Pixel Distances
+
+==== Find the distance from a point to a line, use that to find the strip of pixels at the border of a polygon. Based on Paul Bourke's method for finding the distance from a point to a line.
+
+https://gist.github.com/1325002[polygon_distance_bourke.pde]
