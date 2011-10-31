@@ -8,6 +8,12 @@ A repository of useful code created by ITP Resident Researchers.
 
 https://gist.github.com/1324549
 
+=== Processing Video Examples
+
+==== scrubbing a video file based on mouse movement
+
+https://gist.github.com/1328972
+
 === Processing PGraphics Examples
 
 ==== Example of a function for creating PGraphics from text so you can manipulate its pixels
