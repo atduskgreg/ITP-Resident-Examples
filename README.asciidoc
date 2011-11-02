@@ -30,4 +30,7 @@ https://gist.github.com/1323714[pgraphics_from_text.pde]
 
 https://gist.github.com/1325002[polygon_distance_bourke.pde]
 
-==Arduino
+== Arduino
+
+==== Using Parallax Memsic2125 Dual Axis Accelerometer to using Y Axis to control a servo with smoothening
+https://gist.github.com/1334479[Parallax Accelerometer Servo]
