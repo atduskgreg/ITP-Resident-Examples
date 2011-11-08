@@ -2,6 +2,12 @@
 
 A repository of useful code created by ITP Resident Researchers.
 
+=== Serial Communication
+
+==== Send multiple values over serial from Processing to Arduino
+
+https://gist.github.com/1349176
+
 === Ruby String Tricks
 
 ==== Loop over the characters of a string with a for-in style loop.
