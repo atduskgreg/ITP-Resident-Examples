@@ -20,6 +20,20 @@ https://gist.github.com/1324549
 
 https://gist.github.com/1328972
 
+=== Processing 3D examples
+
+==== Display a 3D model from an OBJ file
+
+https://gist.github.com/1368084
+
+==== 3D with inner rotation
+
+https://gist.github.com/1368012
+
+==== Basic 3D rectangle
+
+https://gist.github.com/1367940
+
 === Processing PGraphics Examples
 
 ==== Example of a function for creating PGraphics from text so you can manipulate its pixels
