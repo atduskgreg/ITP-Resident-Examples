@@ -14,6 +14,12 @@ https://gist.github.com/1349176
 
 https://gist.github.com/1324549
 
+=== Ruby Web Scraping
+
+==== Extract all the headlines on nytimes.com using Nokogiri
+
+https://gist.github.com/1396326
+
 === Processing Video Examples
 
 ==== scrubbing a video file based on mouse movement
