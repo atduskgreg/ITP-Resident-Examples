@@ -40,6 +40,12 @@ https://gist.github.com/1368012
 
 https://gist.github.com/1367940
 
+=== Processing Sound Examples
+
+==== Applying a band pass filter to an mp3 using minim
+
+https://gist.github.com/1409809
+
 === Processing PGraphics Examples
 
 ==== Example of a function for creating PGraphics from text so you can manipulate its pixels
