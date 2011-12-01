@@ -20,6 +20,12 @@ https://gist.github.com/1324549
 
 https://gist.github.com/1396326
 
+=== Sinatra Deployment
+
+==== Deploy your sinatra app from ITP to Heroku
+
+https://gist.github.com/1420122
+
 === Processing Video Examples
 
 ==== scrubbing a video file based on mouse movement
