@@ -6,6 +6,12 @@ A repository of useful code created by ITP Resident Researchers.
 
 ==== Send multiple values over serial from Processing to Arduino
 
+=== Basic Processing Graphics
+
+==== Masking an image with a gradient.
+
+https://gist.github.com/1443333
+
 https://gist.github.com/1349176
 
 === Ruby String Tricks
