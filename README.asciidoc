@@ -36,6 +36,12 @@ https://gist.github.com/1396326
 
 https://gist.github.com/1420122
 
+=== Sinatra Security
+
+==== Storing an encrypted password and using it for basic auth
+
+https://gist.github.com/1444042
+
 === Processing Video Examples
 
 ==== scrubbing a video file based on mouse movement
