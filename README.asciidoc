@@ -10,6 +10,10 @@ https://gist.github.com/1349176
 
 === Basic Processing Graphics
 
+==== Controlling the center of rotation in Processing
+
+https://gist.github.com/1516424
+
 ==== Masking an image with a gradient.
 
 https://gist.github.com/1443333
