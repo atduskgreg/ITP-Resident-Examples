@@ -22,6 +22,14 @@ https://gist.github.com/1443333
 
 https://gist.github.com/1443458
 
+==== Triangulating a position using pixel colors
+
+https://gist.github.com/1524544
+
+==== Determining the position of a point based on signal strength from 4-detectors with vectors
+
+https://gist.github.com/1525553
+
 === Ruby String Tricks
 
 ==== Loop over the characters of a string with a for-in style loop.
