@@ -42,6 +42,12 @@ https://gist.github.com/1324549
 
 https://gist.github.com/1396326
 
+=== Sinatra Email
+
+==== Send email from your Sinatra app on Heroku
+
+https://github.com/atduskgreg/SHED-P
+
 === Sinatra Deployment
 
 ==== Deploy your sinatra app from ITP to Heroku
