@@ -66,6 +66,10 @@ https://gist.github.com/1444042
 
 https://gist.github.com/1328972
 
+=== Accessing FaceTracker OSC messages in Processing
+
+https://gist.github.com/1603230
+
 === Processing 3D examples
 
 ==== Display a 3D model from an OBJ file
