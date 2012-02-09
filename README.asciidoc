@@ -42,6 +42,10 @@ https://gist.github.com/1324549
 
 https://gist.github.com/1396326
 
+==== Get the text of product reviews on Amazon
+
+https://gist.github.com/1781386
+
 === Sinatra Email
 
 ==== Send email from your Sinatra app on Heroku
