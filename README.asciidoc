@@ -114,3 +114,6 @@ https://gist.github.com/1325002[polygon_distance_bourke.pde]
 
 ==== Using Parallax Memsic2125 Dual Axis Accelerometer to using Y Axis to control a servo with smoothening
 https://gist.github.com/1334479[Parallax Accelerometer Servo]
+
+====Basic Shiftbrite
+https://gist.github.com/2137239
