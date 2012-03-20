@@ -116,6 +116,6 @@ https://gist.github.com/1325002[polygon_distance_bourke.pde]
 
 https://gist.github.com/1334479[Parallax Accelerometer Servo]
 
-====Basic Shiftbrite
+==== Basic Shiftbrite
 
 https://gist.github.com/2137239
