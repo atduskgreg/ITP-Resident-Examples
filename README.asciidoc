@@ -30,6 +30,12 @@ https://gist.github.com/1524544
 
 https://gist.github.com/1525553
 
+=== Crazy Ruby
+
+==== Automatically print new files that are added to a folde
+
+https://gist.github.com/2159588
+
 === Ruby String Tricks
 
 ==== Loop over the characters of a string with a for-in style loop.
