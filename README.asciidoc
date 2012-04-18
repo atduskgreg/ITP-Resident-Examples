@@ -52,6 +52,12 @@ https://gist.github.com/1396326
 
 https://gist.github.com/1781386
 
+=== Sinatra S3
+
+==== Upload Image to S3 via Sinatra and save in Datamapper
+
+https://github.com/runemadsen/Sinatra-DataMapper-S3-Example
+
 === Sinatra Email
 
 ==== Send email from your Sinatra app on Heroku
