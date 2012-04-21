@@ -8,6 +8,12 @@ A repository of useful code created by ITP Resident Researchers.
 
 https://gist.github.com/1349176
 
+=== Processing Text Tricks
+
+==== Keeping track of pressed keys (chars) in an ArrayList of Strings
+
+https://gist.github.com/2438543
+
 === Basic Processing Graphics
 
 ==== Controlling the center of rotation in Processing
