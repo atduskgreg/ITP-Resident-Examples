@@ -28,6 +28,10 @@ https://gist.github.com/1443333
 
 https://gist.github.com/1443458
 
+==== Gettng the red, green, or blue color channels from a PImage
+
+https://gist.github.com/3631038
+
 ==== Triangulating a position using pixel colors
 
 https://gist.github.com/1524544
