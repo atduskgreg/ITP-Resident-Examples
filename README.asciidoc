@@ -92,9 +92,9 @@ https://gist.github.com/1444042
 
 https://gist.github.com/1328972
 
-==== Accessing FaceTracker OSC messages in Processing
+==== Accessing FaceTracker OSC messages and camera image in Processing
 
-https://gist.github.com/1603230
+https://gist.github.com/3929016
 
 === Processing 3D examples
 
